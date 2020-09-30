@@ -35,7 +35,7 @@ void solve()
 		dp[i][i][0] = 0;
 	fr(i,m)
 	{
-		cin >> a >> b >> c;							// Enter edges in the form a to b with weight c
+		cin >> a >> b >> c;				// Enter edges in the form a to b with weight c
 		dp[a][b][0] = min(dp[a][b][0],(ll)c);
 	}	
 			

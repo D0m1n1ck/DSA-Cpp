@@ -22,3 +22,6 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 4. Ensure the test suite passes.
 5. Make sure your code lints.
 6. Issue that pull request!
+
+## License
+By contributing, you agree that your contributions will be licensed under its MIT License.

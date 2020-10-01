@@ -1,7 +1,7 @@
 # **Hi** There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 
 <p>
-This is a open-source collabrating repository for all the coders who want to contribute and learn C++.</p>
+This is an open-source collaborating repository for all the coders who want to contribute and learn C++.</p>
 
 ---
 
@@ -11,7 +11,7 @@ This is a open-source collabrating repository for all the coders who want to con
 > A **Data Structure** is a particular way of organizing data in a computer so that it can be used effectively.
 > <br>
 
-> An **Algorithm** refers to a set of rules/instructions that step-by-step define how a work is to be executed upon in order to get the expected results.
+> An **Algorithm** refers to a set of rules/instructions that define the steps of how a work is to be executed upon in order to get the expected results.
 
 ## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
 Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:

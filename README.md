@@ -1,7 +1,7 @@
 # **Hi** There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 
 <p>
-This is an open-source collaborating repository for all the coders who want to contribute and learn C++.</p>
+This is an open-source collaborating repository for all the coders who want to contribute in C++ .</p>
 
 ---
 
